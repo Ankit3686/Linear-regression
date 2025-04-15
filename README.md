@@ -5,6 +5,7 @@
   ##### 3.Ridge Regression
   ##### 4.Decision Tree Regression
   ##### 5.Random Forest Regression
+  ##### 6.Polynomial Regression
 
 ### Using Library
   ##### 1.sklearn
